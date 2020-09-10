@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Abdullah-Khan-11/MyWebsite.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Abdullah-Khan-11/MyWebsite.git/static/js/main.93d6510c.chunk.js",
+    "main.js.map": "/Abdullah-Khan-11/MyWebsite.git/static/js/main.93d6510c.chunk.js.map",
+    "runtime-main.js": "/Abdullah-Khan-11/MyWebsite.git/static/js/runtime-main.b1b96b11.js",
+    "runtime-main.js.map": "/Abdullah-Khan-11/MyWebsite.git/static/js/runtime-main.b1b96b11.js.map",
+    "static/js/2.3be37347.chunk.js": "/Abdullah-Khan-11/MyWebsite.git/static/js/2.3be37347.chunk.js",
+    "static/js/2.3be37347.chunk.js.map": "/Abdullah-Khan-11/MyWebsite.git/static/js/2.3be37347.chunk.js.map",
+    "index.html": "/Abdullah-Khan-11/MyWebsite.git/index.html",
+    "precache-manifest.ba07608df0d75c91adbf1e729bfd844c.js": "/Abdullah-Khan-11/MyWebsite.git/precache-manifest.ba07608df0d75c91adbf1e729bfd844c.js",
+    "service-worker.js": "/Abdullah-Khan-11/MyWebsite.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Abdullah-Khan-11/MyWebsite.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3be37347.chunk.js.LICENSE.txt": "/Abdullah-Khan-11/MyWebsite.git/static/js/2.3be37347.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1b96b11.js",
+    "static/js/2.3be37347.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.93d6510c.chunk.js"
+  ]
+}
